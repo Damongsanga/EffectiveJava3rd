@@ -1,5 +1,15 @@
 # EffectiveJava3rd
 
+#### 설명
+1. 취지 : 자바에 대한 이해를 높이고 보다 객체지향적이며 유지보수하기 좋은 코드를 작성하기 위해
+2. 계획 : 주 5회 아이템 1개씩 공부 
+3. 기간 : 23.12월부터 시작하여 24.4월까지 마무리하는 것이 목표
+4. 목표 : 프로젝트, 취준과 무관하게 꾸준하게 가져가면서 공부하고 실제 프로젝트에 적용해볼 수 있도록
+5. 방법 : 교재 중심의 내용 정리 및 타 관련 자료 참고하여 공부
+6. 교재 : EffectiveJava 3판
+
+<hr>
+
 ### 1. 객체 생성과 파괴
 [1. 생성자 대신 정적 팩토리 메소드를 사용해라](https://github.com/Damongsanga/EffectiveJava3rd/blob/main/1.%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/1%20%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C.md#%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C)
 
@@ -19,6 +29,7 @@
 
 [9. try-finally보다는 try-with-resources를 사용하라](https://github.com/Damongsanga/EffectiveJava3rd/blob/main/1.%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/8%20finalize%EC%99%80%20cleaner%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%ED%94%BC%ED%95%B4%EB%9D%BC%209%20try-finally%20%EB%B3%B4%EB%8B%A4%EB%8A%94%20try-with-resources%EB%A5%BC%20%EC%82%AC%EC%9A%A9.md#9-try-finally%EB%B3%B4%EB%8B%A4%EB%8A%94-try-with-resources%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
 
+<br>
 
 ### 2. 모든 객체의 공통 메서드
 [10. equals는 일반 규칙을 지켜 재정의하라](https://github.com/Damongsanga/EffectiveJava3rd/blob/main/2.%20%EB%AA%A8%EB%93%A0%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EA%B3%B5%ED%86%B5%20%EB%A9%94%EC%84%9C%EB%93%9C/10%20equals%EB%8A%94%20%EC%9D%BC%EB%B0%98%20%EA%B7%9C%EC%B9%99%EC%9D%84%20%EC%A7%80%EC%BC%9C%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md#10-equals%EB%8A%94-%EC%9D%BC%EB%B0%98-%EA%B7%9C%EC%B9%99%EC%9D%84-%EC%A7%80%EC%BC%9C-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC-1)
