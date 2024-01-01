@@ -10,7 +10,7 @@
 
 <hr>
 
-### 1. 객체 생성과 파괴
+### 2. 객체 생성과 파괴
 [1. 생성자 대신 정적 팩토리 메소드를 사용해라](https://github.com/Damongsanga/EffectiveJava3rd/blob/main/1.%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/1%20%EC%83%9D%EC%84%B1%EC%9E%90%20%EB%8C%80%EC%8B%A0%20%EC%A0%95%EC%A0%81%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EB%A9%94%EC%86%8C%EB%93%9C.md#%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C)
 
 [2. 매개변수가 많다면 빌더 패턴을 사용해라](https://github.com/Damongsanga/EffectiveJava3rd/blob/main/1.%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1%EA%B3%BC%20%ED%8C%8C%EA%B4%B4/2%20%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98%EA%B0%80%20%EB%A7%8E%EB%8B%A4%EB%A9%B4%20%EB%B9%8C%EB%8D%94%20%ED%8C%A8%ED%84%B4.md)
@@ -31,7 +31,7 @@
 
 <br>
 
-### 2. 모든 객체의 공통 메서드
+### 3. 모든 객체의 공통 메서드
 [10. equals는 일반 규칙을 지켜 재정의하라](https://github.com/Damongsanga/EffectiveJava3rd/blob/main/2.%20%EB%AA%A8%EB%93%A0%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EA%B3%B5%ED%86%B5%20%EB%A9%94%EC%84%9C%EB%93%9C/10%20equals%EB%8A%94%20%EC%9D%BC%EB%B0%98%20%EA%B7%9C%EC%B9%99%EC%9D%84%20%EC%A7%80%EC%BC%9C%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md#10-equals%EB%8A%94-%EC%9D%BC%EB%B0%98-%EA%B7%9C%EC%B9%99%EC%9D%84-%EC%A7%80%EC%BC%9C-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC-1)
 
 [11. equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/Damongsanga/EffectiveJava3rd/blob/main/2.%20%EB%AA%A8%EB%93%A0%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EA%B3%B5%ED%86%B5%20%EB%A9%94%EC%84%9C%EB%93%9C/10%20equals%EB%8A%94%20%EC%9D%BC%EB%B0%98%20%EA%B7%9C%EC%B9%99%EC%9D%84%20%EC%A7%80%EC%BC%9C%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC.md#10-equals%EB%8A%94-%EC%9D%BC%EB%B0%98-%EA%B7%9C%EC%B9%99%EC%9D%84-%EC%A7%80%EC%BC%9C-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC-1)
@@ -42,7 +42,7 @@
 
 <br>
 
-### 3. 클래스와 인터페이스
+### 4. 클래스와 인터페이스
 
 [15. 클래스와 멤버의 접근 권한을 최소화하라](https://github.com/Damongsanga/EffectiveJava3rd/blob/main/3.%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4/15.%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EB%A9%A4%EB%B2%84%EC%9D%98%20%EC%A0%91%EA%B7%BC%20%EA%B6%8C%ED%95%9C%EC%9D%84%20%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC%2016.%20public%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90%EC%84%9C%EB%8A%94%20public%20%ED%95%84%EB%93%9C%EA%B0%80%20%EC%95%84%EB%8B%8C%20getter%2C%20setter%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 
